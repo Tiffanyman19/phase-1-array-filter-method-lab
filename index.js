@@ -16,4 +16,3 @@ function matchName(array, targetName)
     const anotherArray = array.filter(arr => arr.name === targetName);
     return anotherArray
 }
-//Done
